@@ -12,7 +12,7 @@ Alle Themendateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdate
 
 ## Installation
 
-[Erweiterung herunterladen](archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+[Erweiterung herunterladen](/archive/refs/heads/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
 Diese Erweiterung benutzt [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) von Kev Quirk. 
 

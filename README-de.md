@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
 
-# Wittstock 0.8.21
+# Wittstock 0.8.22
 
 Wittstock ist ein klassenloses Theme für Datenstrom Yellow.
 
@@ -14,7 +14,7 @@ Alle Themendateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdate
 
 [Erweiterung herunterladen](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
-Diese Erweiterung benutzt [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) von Kev Quirk. 
+Diese Erweiterung enthält [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) von Kev Quirk. 
 
 ## Designer
 

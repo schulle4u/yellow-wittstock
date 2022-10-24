@@ -2,7 +2,7 @@
 // Wittstock extension, https://github.com/schulle4u/yellow-wittstock
 
 class YellowWittstock {
-    const VERSION = "0.8.21";
+    const VERSION = "0.8.22";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -16,8 +16,21 @@ class YellowWittstock {
         if ($action=="install") {
             $this->yellow->system->save($fileName, array("theme" => "wittstock"));
         } elseif ($action=="uninstall" && $this->yellow->system->get("theme")=="wittstock") {
-            $theme = reset(array_diff($this->yellow->system->getValues("theme"), array("wittstock")));
-            $this->yellow->system->save($fileName, array("theme" => $theme));
+            $this->yellow->system->save($fileName, array("theme" => $this->yellow->system->getDifferent("theme")));
         }
+    }
+    
+    // Return default language settings
+    public function getDefault() {
+        return <<< 'END'
+        Language: en
+        WittstockDescription: Wittstock is a classless theme for Datenstrom Yellow.
+
+        Language: de
+        WittstockDescription: Wittstock ist ein klassenloses Theme für Datenstrom Yellow.
+
+        Language: sv
+        WittstockDescription: Wittstock är ett klasslöst tema för Datenstrom Yellow.
+END;
     }
 }

@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
 
-# Wittstock 0.8.21
+# Wittstock 0.8.22
 
 Wittstock is a classless theme for Datenstrom Yellow.
 
@@ -14,7 +14,7 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 [Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-This extension uses [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) by Kev Quirk. 
+This extension includes [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) by Kev Quirk. 
 
 ## Designer
 

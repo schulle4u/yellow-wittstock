@@ -8,6 +8,7 @@ class YellowWittstock {
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
+        $this->yellow->language->setDefault($this->getDefault());
     }
     
     // Handle update
@@ -24,13 +25,13 @@ class YellowWittstock {
     public function getDefault() {
         return <<< 'END'
         Language: en
-        WittstockDescription: Wittstock is a classless theme for Datenstrom Yellow.
+        WittstockDescription: Wittstock is a classless theme.
 
         Language: de
-        WittstockDescription: Wittstock ist ein klassenloses Theme für Datenstrom Yellow.
+        WittstockDescription: Wittstock ist ein klassenloses Theme.
 
         Language: sv
-        WittstockDescription: Wittstock är ett klasslöst tema för Datenstrom Yellow.
+        WittstockDescription: Wittstock är ett klasslöst tema.
 END;
     }
 }

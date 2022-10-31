@@ -8,7 +8,6 @@ class YellowWittstock {
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault($this->getDefault());
     }
     
     // Handle update

@@ -2,7 +2,7 @@
 
 # Wittstock 0.8.22
 
-Wittstock is a classless theme for Datenstrom Yellow.
+Wittstock is a classless theme.
 
 <p align="center"><img src="wittstock-screenshot.png?raw=true" alt="Screenshot"></p>
 
@@ -10,11 +10,13 @@ Wittstock is a classless theme for Datenstrom Yellow.
 
 All theme files are stored in your `system/themes` folder. All layout files are stored in your `system/layouts` folder. You can edit these files. Your changes will not be overwritten when the website is updated.
 
+The default theme is defined in file `system/extensions/yellow-system.ini`. A different theme can be defined in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of each page, for example `Theme: wittstock`. [Learn more about themes](https://datenstrom.se/yellow/help/how-to-customise-a-theme).
+
 ## Installation
 
-[Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy zip file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-This extension includes [Simple.css 2.1.1](https://github.com/kevquirk/simple.css) by Kev Quirk. 
+This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. 
 
 ## Designer
 

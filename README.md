@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
 
-# Wittstock 0.8.22
+# Wittstock 0.8.23
 
 Wittstock is a classless theme.
 
@@ -14,7 +14,7 @@ The default theme is defined in file `system/extensions/yellow-system.ini`. A di
 
 ## Installation
 
-[Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy zip file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. 
 

@@ -2,7 +2,7 @@
 // Wittstock extension, https://github.com/schulle4u/yellow-wittstock
 
 class YellowWittstock {
-    const VERSION = "0.8.22";
+    const VERSION = "0.8.23";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -18,19 +18,5 @@ class YellowWittstock {
         } elseif ($action=="uninstall" && $this->yellow->system->get("theme")=="wittstock") {
             $this->yellow->system->save($fileName, array("theme" => $this->yellow->system->getDifferent("theme")));
         }
-    }
-    
-    // Return default language settings
-    public function getDefault() {
-        return <<< 'END'
-        Language: en
-        WittstockDescription: Wittstock is a classless theme.
-
-        Language: de
-        WittstockDescription: Wittstock ist ein klassenloses Theme.
-
-        Language: sv
-        WittstockDescription: Wittstock är ett klasslöst tema.
-END;
     }
 }

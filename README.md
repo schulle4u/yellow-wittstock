@@ -12,11 +12,13 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 The default theme is defined in file `system/extensions/yellow-system.ini`. A different theme can be defined in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of each page, for example `Theme: wittstock`. [Learn more about themes](https://datenstrom.se/yellow/help/how-to-customise-a-theme).
 
+## Acknowledgements
+
+This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. 
+
 ## Installation
 
 [Download extension](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. 
 
 ## Designer
 

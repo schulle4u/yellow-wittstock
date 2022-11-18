@@ -14,7 +14,7 @@ Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festg
 
 ## Danksagung
 
-Diese Erweiterung enthält [Simple.css](https://github.com/kevquirk/simple.css) von Kev Quirk. 
+Diese Erweiterung enthält [Simple.css](https://github.com/kevquirk/simple.css) von Kev Quirk. Danke für die gute Arbeit.
 
 ## Installation
 

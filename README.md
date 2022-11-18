@@ -14,7 +14,7 @@ The default theme is defined in file `system/extensions/yellow-system.ini`. A di
 
 ## Acknowledgements
 
-This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. 
+This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. Thank you for the good work.
 
 ## Installation
 

@@ -6,6 +6,10 @@ Wittstock ist ein klassenloses Theme.
 
 <p align="center"><img src="wittstock-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
+## Wie man eine Erweiterung installiert
+
+[Erweiterung herunterladen](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+
 ## Wie man ein Theme anpasst
 
 Alle Themedateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdateien befinden sich im `system/layouts`-Verzeichnis. Du kannst diese Dateien bearbeiten. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
@@ -15,10 +19,6 @@ Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festg
 ## Danksagung
 
 Diese Erweiterung enthält [Simple.css](https://github.com/kevquirk/simple.css) von Kev Quirk. Danke für die gute Arbeit.
-
-## Installation
-
-[Erweiterung herunterladen](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Designer
 

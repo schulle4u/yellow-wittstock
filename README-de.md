@@ -8,7 +8,7 @@ Wittstock ist ein klassenloses Theme.
 
 ## Wie man eine Erweiterung installiert
 
-[Erweiterung herunterladen](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+[ZIP-Datei herunterladen](https://github.com/schulle4u/yellow-wittstock/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Wie man ein Theme anpasst
 

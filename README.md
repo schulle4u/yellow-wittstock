@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
 
-# Wittstock 0.8.24
+# Wittstock 0.8.25
 
 Wittstock is a classless theme.
 

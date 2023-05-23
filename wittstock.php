@@ -2,7 +2,7 @@
 // Wittstock extension, https://github.com/schulle4u/yellow-wittstock
 
 class YellowWittstock {
-    const VERSION = "0.8.25";
+    const VERSION = "0.8.26";
     public $yellow;         // access to API
     
     // Handle initialisation

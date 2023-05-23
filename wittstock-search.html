@@ -9,7 +9,7 @@
 <?php if (count($this->yellow->page->getPages("search"))): ?>
 <?php foreach ($this->yellow->page->getPages("search")->paginate($this->yellow->system->get("searchPaginationLimit")) as $page): ?>
 <h2><a href="<?php echo $page->getLocation(true) ?>"><?php echo $page->getHtml("title") ?></a></h2>
-<p><?php echo htmlspecialchars($this->yellow->toolbox->createTextDescription($page->getContent(), $this->yellow->system->get("searchPageLength"))) ?></p>
+<p><?php echo htmlspecialchars($this->yellow->toolbox->createTextDescription($page->getContentHtml(), $this->yellow->system->get("searchPageLength"))) ?></p>
 <p><a href="<?php echo $page->getLocation(true) ?>"><?php echo $page->getUrl() ?></a></p>
 <?php endforeach ?>
 <?php elseif ($this->yellow->page->get("status")!="none"): ?>

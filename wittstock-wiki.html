@@ -6,7 +6,7 @@
 <h2><?php echo $this->yellow->page->getHtml("titleContent") ?></h2>
 <p><?php echo $this->yellow->language->getTextHtml("wikiModified") ?> <?php echo $this->yellow->page->getDateHtml("modified") ?></p>
 </header>
-<?php echo $this->yellow->page->getContent() ?>
+<?php echo $this->yellow->page->getContentHtml() ?>
 </article>
 <?php if ($this->yellow->page->isExisting("tag")): ?>
 <div class="entry-tags">

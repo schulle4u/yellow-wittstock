@@ -737,3 +737,13 @@ sub {
     background-color: var(--notice3-bg);
     border-left: 0.35rem solid var(--accent);
 }
+
+td[align="left"] {
+    text-align: left;
+}
+td[align="center"] {
+    text-align: center;
+}
+td[align="right"] {
+    text-align: right;
+}

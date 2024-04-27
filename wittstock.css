@@ -703,6 +703,17 @@ sub {
   margin: 2rem 0;
 }
 
+/* Markdown table cell alignment fix */
+th[align="left"], td[align="left"] {
+    text-align: left;
+}
+th[align="center"], td[align="center"] {
+    text-align: center;
+}
+th[align="right"], td[align="right"] {
+    text-align: right;
+}
+
 /* Yellow-related stuff */
 .task-list-item {
     list-style-type: none;
@@ -736,14 +747,4 @@ sub {
     padding: 10px 1em;
     background-color: var(--notice3-bg);
     border-left: 0.35rem solid var(--accent);
-}
-
-td[align="left"] {
-    text-align: left;
-}
-td[align="center"] {
-    text-align: center;
-}
-td[align="right"] {
-    text-align: right;
 }

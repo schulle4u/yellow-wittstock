@@ -748,3 +748,15 @@ th[align="right"], td[align="right"] {
     background-color: var(--notice3-bg);
     border-left: 0.35rem solid var(--accent);
 }
+.left {
+    float: left;
+    margin: 0 1em 0 0;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+}
+.right {
+    float: right;
+    margin: 0 0 0 1em;
+}

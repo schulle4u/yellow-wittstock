@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a></p>
-
 # Wittstock 0.9.4
 
-Wittstock is a classless theme.
+Wittstock is a classless theme. Designed by Steffen Schultz.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -20,6 +18,4 @@ The default theme is defined in file `system/extensions/yellow-system.ini`. A di
 
 This extension includes [Simple.css](https://github.com/kevquirk/simple.css) by Kev Quirk. Thank you for the good work.
 
-## Designer
-
-Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

@@ -1,4 +1,4 @@
-# Wittstock 0.9.4
+# Wittstock 1.0.1
 
 Wittstock ist ein klassenloses Theme. Entworfen von Steffen Schultz.
 
